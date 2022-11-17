@@ -9,9 +9,6 @@ public class AnimaliaFilo extends Animalia {
 	public AnimaliaFilo() {
 	}
 
-	public AnimaliaFilo(String nomeFilo) {
-		this.nomeFilo = nomeFilo;
-	}
 
 	public String getNomeFilo() {
 		return nomeFilo;
